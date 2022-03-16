@@ -189,7 +189,7 @@ input, select, textarea {
 		margin: 0 0 0.5em 0;
 	}
 h3{
-	color: #ffffff;
+	color: #1f1f1f;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -238,7 +238,7 @@ h3{
 
 	h3 {
 		font-size: 1.1em;
-		color: rgb(255, 255, 255);
+		color: rgb(0, 0, 0);
 	}
 
 	h4 {
@@ -3298,21 +3298,21 @@ h3{
 		}
 
 		.wrapper.style3 {
-			background-color: #914a74;
-			color: #ffffff;
+			background-color: #ddd9d9;
+			color: #1b1b1b;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #914a74;
-			color: #ffffff;
+			background-color: #ddd9d9;
+			color: #1b1b1b;
 		}
 		.wrapper.style4 {
-			background-color: #252525;
-			color: #ffffff;
+			background-color: #858585;
+			color: #000000;
 		}
 		.wrapper.style4-alt {
-			background-color: #252525;
-			color: #ffffff;
+			background-color: #858585;
+			color: #000000;
 		}
 		.wrapper.fullscreen {
 			display: -moz-flex;
